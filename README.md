@@ -2,6 +2,8 @@
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20mangoyoo&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hi There" title="Hi There"/>
 </p>
+<div align="center">
+
 # Hi, I'm Xianyou Zeng 😉
 
 A programmer 👨🏻‍💻 from Guangzhou, China 🇨🇳.
@@ -14,6 +16,9 @@ A programmer 👨🏻‍💻 from Guangzhou, China 🇨🇳.
 - 🎓 I'm pursuing a Master of Engineering degree.
 - 💬 Ask me about anything, I would like to answer.
 - 📫 Please email via [676224061@qq.com](mailto:676224061@qq.com) to reach me.
+
+</div>
+
 
 <!-- 更新所有统计图表的用户名 -->
 <p align="center">
