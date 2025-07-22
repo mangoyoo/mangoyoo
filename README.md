@@ -2,7 +2,14 @@
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20mangoyoo&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hi There" title="Hi There"/>
 </p>
-
+Hi, I'm Xianyou Zeng 😉, a programmer 👨🏻‍💻 from Guangzhou, China 🇨🇳.
+Current Status 
+● 🌱  My tech stack includes Java, Go, Python, C++ and Qt.
+● 🔍 My research interests are in Computer Vision, Natural Language Processing (NLP), etc.
+● ✨Besides programming, I like playing 🏀 basketball, 🏸 badminton, and 💪 working out at the gym.
+● 🎓 I’m pursuing a Master of Engineering degree.
+● 💬 Ask me about anything, I would like to answer.
+● 📫 Please email via 676224061@qq.com to reach me.
 <!-- 更新所有统计图表的用户名 -->
 <p align="center">
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=mangoyoo&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" alt="Profile Stats" title="Profile Stats" />
