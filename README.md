@@ -34,7 +34,7 @@ A programmer 👨🏻‍💻 from Guangzhou, China 🇨🇳.
 
 <!-- 技能图标可以根据你的实际技能调整 -->
 <p align="center">
-    <img width="400" src="https://go-skill-icons.vercel.app/api/icons?i=java,go,py,cpp,qt,pytorch&titles=true" alt="Skill Icons" title="Skill Icons">
+    <img width="400" src="https://go-skill-icons.vercel.app/api/icons?i=java,go,py,cpp,qt,docker,vue,pytorch&titles=true" alt="Skill Icons" title="Skill Icons">
 </p>
 
 <p align="center">
