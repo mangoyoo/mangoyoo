@@ -28,7 +28,7 @@ A programmer 👨🏻‍💻 from Guangzhou, China 🇨🇳.
 
 <!-- 更新活动图表 -->
 <p align="center">
-    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=mangoyoo&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
+    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=mangoyoo&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph&cache_seconds=1600" alt="Activity Graph" title="Activity Graph" />
 </p>
 
 
