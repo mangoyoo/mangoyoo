@@ -21,14 +21,14 @@ A programmer 👨🏻‍💻 from Guangzhou, China 🇨🇳.
 
 <!-- 更新所有统计图表的用户名 -->
 <p align="center">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=mangoyoo&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true&cache_seconds=1600" alt="Profile Stats" title="Profile Stats"  />
-    <img width="400" src="https://github-readme-streak-stats-xiaokang2022.vercel.app?user=mangoyoo&theme=transparent&hide_border=true&cache_seconds=1600" alt="Streak Stats" title="Streak Stats" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=mangoyoo&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true&cache_seconds=1800" alt="Profile Stats" title="Profile Stats"  />
+    <img width="400" src="https://github-readme-streak-stats-xiaokang2022.vercel.app?user=mangoyoo&theme=transparent&hide_border=true&cache_seconds=1800" alt="Streak Stats" title="Streak Stats" />
 </p>
 
 
 <!-- 更新活动图表 -->
 <p align="center">
-    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=mangoyoo&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph&cache_seconds=1600" alt="Activity Graph" title="Activity Graph" />
+    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=mangoyoo&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph&cache_seconds=1800" alt="Activity Graph" title="Activity Graph" />
 </p>
 
 
